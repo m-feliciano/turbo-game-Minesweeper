@@ -1,4 +1,4 @@
-# turbo-Minesweeper
+# Minesweeper
 
 About the game: :video_game:<br> 
 Minesweeper is a popular single player game. :bust_in_silhouette:<br>
