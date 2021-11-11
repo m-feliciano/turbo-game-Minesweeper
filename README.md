@@ -1,8 +1,10 @@
-# turbo-game-campo-minado
+# turbo-Minesweeper
 
-Sobre o jogo: :video_game:<br> 
-Campo minado é um jogo popular single player. :bust_in_silhouette:<br>
-Foi inventado por Robert Donner em 1989 e tem como objectivo revelar um campo de minas sem que alguma seja detonada.:bomb::boom: 
+About the game: :video_game:<br> 
+Minesweeper is a popular single player game. :bust_in_silhouette:<br>
+It was invented by Robert Donner in 1989 and aims to reveal a minefield without any being detonated.:bomb::boom:
+
+
 <div align="left">
     <img src="https://i.ibb.co/QmvgNR5/campo-minado.png" style=" width:500px ; height:350px " />
 </div>
