@@ -1,7 +1,7 @@
 # Minesweeper
 
 About the game: :video_game:<br> 
-Minesweeper is a popular single player game. :bust_in_silhouette:<br>
+Minesweeper is a classic 90's single player game. :bust_in_silhouette:<br>
 It was invented by Robert Donner in 1989 and aims to reveal a minefield without any being detonated.:bomb::boom:
 
 
